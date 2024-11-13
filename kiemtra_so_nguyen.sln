@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiemtra_so_nguyen", "kiemtra_so_nguyen\kiemtra_so_nguyen.csproj", "{706B8BCE-45F0-4914-8FC8-04000F405106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSoNguyen", "TestSoNguyen\TestSoNguyen.csproj", "{93E77AA4-090F-44F5-BC7B-81F417C1B7E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706B8BCE-45F0-4914-8FC8-04000F405106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706B8BCE-45F0-4914-8FC8-04000F405106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706B8BCE-45F0-4914-8FC8-04000F405106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706B8BCE-45F0-4914-8FC8-04000F405106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E77AA4-090F-44F5-BC7B-81F417C1B7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E77AA4-090F-44F5-BC7B-81F417C1B7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E77AA4-090F-44F5-BC7B-81F417C1B7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E77AA4-090F-44F5-BC7B-81F417C1B7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E57DEB55-70D1-4834-AC8C-A2B7BB0005E2}
+	EndGlobalSection
+EndGlobal
